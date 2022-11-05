@@ -1,2 +1,2 @@
 # githubprofile
-Splash page
+<div align="center" > Hi! </div>
