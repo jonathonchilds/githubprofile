@@ -1,5 +1,5 @@
 # githubprofile
 <p align="center" > 
-Hi! 
+Hi! <br> <br>
 Jonathon here!
 </main>
